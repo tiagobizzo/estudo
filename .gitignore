@@ -1,0 +1,18 @@
+###############################
+#JAVA
+###############################
+
+###############################
+#IGNORAR ARQUIVOS
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+###############################
+#IGNORAR ARQUIVOS DO VSCODE
+.vscode
+.code-worspace
